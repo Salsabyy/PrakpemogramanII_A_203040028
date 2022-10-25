@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\Prak pemograman 2\.metadata\.plugins\org.eclipse.jdt.core
+2389607183.index
+1728915002.index
+3056906313.index
+1865797976.index
+392680117.index
+1616962083.index
